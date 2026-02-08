@@ -7,8 +7,7 @@ Crie bordas visuais (GangZones) com detecção de entrada/saída otimizada (O(1)
 
 1. Use as funções:
 ```pawn
-new border = Border_Create(minx, miny, maxx, maxy, size); // Criar borda
-CreateMapBorders(minx, miny, maxx, maxy); // Alternativa para criar
+new border_id = Border_Create(minx, miny, maxx, maxy, size); // Criar borda
 Border_Destroy(border_id); // Destruir borda
 
 Border_Show(playerid, border_id, color); // Mostrar para jogador
