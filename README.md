@@ -30,4 +30,4 @@ public OnPlayerLeaveEykBorder(playerid, border_id) { ... }
 - `#define MAX_BORDERS 100` (Padrão)
 - `#define BORDER_DEFAULT_SIZE 9.0` (Espessura padrão)
 
-Pronto para usar!
+Dev: Marinho!
