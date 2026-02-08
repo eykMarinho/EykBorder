@@ -24,6 +24,10 @@ IsPlayerInBorder(playerid, border_id); // Verificar se está dentro
 public OnPlayerEnterEykBorder(playerid, border_id) { ... }
 public OnPlayerLeaveEykBorder(playerid, border_id) { ... }
 ```
+3. Fotos
+<img width="1920" height="1080" alt="sa-mp-048" src="https://github.com/user-attachments/assets/f79cb7a2-057c-42a8-95f1-52a07ecedf32" />
+<img width="1920" height="1080" alt="sa-mp-038" src="https://github.com/user-attachments/assets/d6870611-40f0-49bd-868e-da116d3c9a34" />
+
 
 ## Configuração
 
